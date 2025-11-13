@@ -68,3 +68,11 @@ FLAG{flagDetailsHere}
 Find at least **two** flags.
 
 ---
+
+## 5. Open-Ended Questions
+
+How do you find out which port the webserver is running on?
+
+What does Gobuster help you find?
+
+What real-world skill can you practice with this exercise?
