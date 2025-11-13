@@ -1,3 +1,9 @@
+## 0. Enter the Cyberrange
+
+Spin up a Kali desktop environment in the CYBR 428 Cyberrange, join the environment once started.
+
+---
+
 You must first create the webserver and its contents.  
 This is very simple and entirely automated.
 
